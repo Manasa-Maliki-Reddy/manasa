@@ -1,0 +1,8 @@
+1.comments
+2.re-ordering
+3.sizing
+4.data types
+5.add or remove functions
+6. add or remove loops
+7.re-name the var
+				
